@@ -1,0 +1,7 @@
+
+Using iFrames:
+
+1. Embedded Content: Allows you to embed another webpage or multimedia 
+content within a webpage.
+2. src Attribute: Specifies the URL of the content to be embedded.
+3. Dimensions: Width and height can be set using width and height attributes.

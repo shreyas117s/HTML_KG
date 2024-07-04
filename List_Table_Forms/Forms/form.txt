@@ -1,0 +1,12 @@
+
+Forms:
+
+Input Tag:
+
+1. Purpose: Used within a <form> element to collect user input.
+2. Self-Closing: The <input> tag is self-closing; doesn't require 
+a  closing tag.
+3. Attributes: Common attributes are name, value, placeholder, 
+   and required.
+
+

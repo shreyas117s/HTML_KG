@@ -1,0 +1,11 @@
+1.Its is File  That use for Storing High Quality Videos.
+2.Suppose we have to use video tag and run video on webpage so First we have to create 
+assets file then ping the video file into assets
+3.then use video tag src tag give location of assets and video name
+
+
+Syntax: <video src="File/nameofvideo.format mp4"
+
+Ex: <video src="assets/jacq.mp4"
+
+Notes: src is Attribute of Video Tag

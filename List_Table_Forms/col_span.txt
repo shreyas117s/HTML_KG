@@ -1,0 +1,7 @@
+
+Col Spans:
+
+1. Attribute: Uses the colspan attribute in <td> or <th> tags.
+2. Purpose: Allows a cell to span multiple columns horizontally.
+3. Alignment: Takes the space of the specified number of columns.
+4. Layout: Useful for combining cells to create complex table layouts.

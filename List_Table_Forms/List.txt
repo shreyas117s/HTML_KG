@@ -1,0 +1,78 @@
+List, Tables & Forms:
+
+       1. List Tag:
+
+          1. Ordered Lists
+          2. Types of Ordered Lists
+          3. Unordered Lists
+
+       2. Table Tag:
+
+          1. <tr>, <td>, <th> tags
+          2. Captions
+          3. Col spans
+
+       3. Forms:
+
+          1. Input tag
+          2. Action Attributes
+          3. Name and Value Property
+          4. Label Tag
+          5. Exploring Types
+
+       4. iFrame Tag:
+       
+          1. Using iFrames
+
+
+ Ordered Lists:
+
+ 1. Purpose: Used for creating lists with items that have a specific order.
+ 2. Default: Items are automatically numbered.
+ 3. Nesting: Can be nested within other lists
+
+ Ordered Lists:
+● Numeric: Default type, (1, 2, 3, ...) 
+Attribute: type="1"
+● Uppercase Letters: (A, B, C, ...) 
+Attribute: type="A"
+● Lowercase Letters: (a, b, c, ...)
+Attribute: type="a"
+● Uppercase Roman: (I, II, III, ...)
+Attribute: type="I"
+● Lowercase Roman: (i, ii, iii, ...)
+Attribute: type="i"
+
+List Show in Alphabatical Order:
+Ex: <ol type="A">
+      <li>HTML</li>
+      <li>CSS</li>
+      <li>Javascript</li>
+      <li>JQuery</li>
+      <li>React Js</li>
+    </ol>
+
+    List Show in Bigger Roman Numbers
+    Ex: <ol type="I">
+      <li>HTML</li>
+      <li>CSS</li>
+      <li>Javascript</li>
+      <li>JQuery</li>
+      <li>React Js</li>
+    </ol>
+
+    List Show in small Letter Roman Numbers
+    Ex: <ol type="i">
+      <li>HTML</li>
+      <li>CSS</li>
+      <li>Javascript</li>
+      <li>JQuery</li>
+      <li>React Js</li>
+    </ol>
+
+
+    Unordered Lists:
+  
+    1. Purpose: Used for lists where the order of items doesn't matter.
+    2. Default: Items are usually bulleted.
+    3. Nesting: Can be nested within other lists.

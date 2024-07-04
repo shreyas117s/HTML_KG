@@ -1,0 +1,11 @@
+
+Table Tag:
+
+<tr>, <td>, <th> Tags
+
+ 1. <tr> Table Row : Used to define a row in an HTML table.
+ 2. <th> Table Header : Used for header cells within a row. 
+    Text is bold and centered by default.
+ 3. <td> Table Data : This Holds the actual data.
+
+

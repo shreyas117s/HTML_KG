@@ -1,0 +1,3 @@
+<big> increases text size
+<small> decreases text size
+Less common due to CSS alternatives

@@ -1,0 +1,29 @@
+
+Action attribute:
+
+1. Purpose: Specifies the URL to which the form data should 
+be sent when submitted.
+2. Default: If not specified, the form will be submitted to the 
+current page's URL.
+3. Server-Side: Usually points to a server-side script (like 
+PHP, Python, etc.) that processes the form data.
+
+
+
+Name and Value property:
+
+`name` Property:
+○ ID for Data: Identifies form elements when submitting.
+○ Unique: Should be unique to each element for clarity.
+● `value` Property:
+○ Default Data: Sets initial value for input elements.
+○ Sent to Server: This is the data sent when form is 
+submitted.
+
+Label Tag:
+
+● Purpose: Adds a text description to form elements.
+● for Attribute: Connects the label to a specific form 
+element using the element's id.
+● Accessibility: Makes the form more accessible.
+● Readability: Enhances form readability and usability.

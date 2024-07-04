@@ -1,0 +1,8 @@
+
+Input type: TextArea
+
+1. Purpose: <textarea> is used for multi-line text input in forms.
+1. rows Property: Specifies the visible number of lines in the textarea.
+2. cols Property: Sets the visible width measured in average character 
+   widths.
+   Resizable: Some browsers allow users to manually resize the textarea.

@@ -1,0 +1,6 @@
+Captions:
+
+1. Purpose: Provides a title or description for a table.
+2. Placement: Must be inserted immediately after the <table> opening tag.
+3. Alignment: Centered above the table by default.
+4. Accessibility: Helps screen readers understand the table's purpose.
